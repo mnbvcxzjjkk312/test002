@@ -4,30 +4,11 @@ public class TestClass {
 
 	public static void main(String[] args) {
 	
-		무한으로 즐겨요 명륜진사 갈비무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
+		System.out.println("show me the money");
+		System.out.println("show me the money");
+		System.out.println("show me the money");
+		System.out.println("show me the money");
 		
-		
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		
-		ㅍ
-		무한으로 즐겨요 명륜진사 갈비
-		
-		ㅍ
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
-		무한으로 즐겨요 명륜진사 갈비
 
 	}
 
