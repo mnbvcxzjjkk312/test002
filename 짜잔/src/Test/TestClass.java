@@ -8,6 +8,7 @@ public class TestClass {
 		System.out.println("띠로리");
 		System.out.println("포로리");System.out.println("띠로리");
 		System.out.println("포로리");
+		System.out.println("너구리");
 
 	}
 
