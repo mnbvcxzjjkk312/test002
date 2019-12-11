@@ -16,6 +16,11 @@ public class test {
 	System.out.println("ddd");
 	System.out.println("ddd");
 	
+	System.out.println("¿ì¿Õ~");
+	System.out.println("Test");
+	System.out.println("°¿°¿");
+	System.out.println("°¼¸¤");
+	
 	
 	
 }
