@@ -14,7 +14,7 @@ public class test {
 	System.out.println("ddd");
 	System.out.println("ddd");
 	System.out.println("ddd");
-	System.out.println("ddd");
+	System.out.println("Ä¿¹ÔÄ¿¹Ô");
 	
 	
 	
